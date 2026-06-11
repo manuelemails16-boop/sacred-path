@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sacred-path/static/css/main.bcd8e5d5.css",
-    "main.js": "/sacred-path/static/js/main.5c2dc279.js",
+    "main.js": "/sacred-path/static/js/main.94d41c59.js",
     "index.html": "/sacred-path/index.html",
     "main.bcd8e5d5.css.map": "/sacred-path/static/css/main.bcd8e5d5.css.map",
-    "main.5c2dc279.js.map": "/sacred-path/static/js/main.5c2dc279.js.map"
+    "main.94d41c59.js.map": "/sacred-path/static/js/main.94d41c59.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd8e5d5.css",
-    "static/js/main.5c2dc279.js"
+    "static/js/main.94d41c59.js"
   ]
 }
